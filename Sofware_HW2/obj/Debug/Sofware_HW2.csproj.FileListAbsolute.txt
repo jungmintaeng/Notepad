@@ -1,0 +1,9 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Sofware_HW2\Sofware_HW2\bin\Debug\Sofware_HW2.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Sofware_HW2\Sofware_HW2\bin\Debug\Sofware_HW2.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Sofware_HW2\Sofware_HW2\bin\Debug\Sofware_HW2.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Sofware_HW2\Sofware_HW2\obj\Debug\Sofware_HW2.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Sofware_HW2\Sofware_HW2\obj\Debug\Sofware_HW2.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Sofware_HW2\Sofware_HW2\obj\Debug\Sofware_HW2.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Sofware_HW2\Sofware_HW2\obj\Debug\Sofware_HW2.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Sofware_HW2\Sofware_HW2\obj\Debug\Sofware_HW2.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\Sofware_HW2\Sofware_HW2\obj\Debug\Sofware_HW2.pdb
